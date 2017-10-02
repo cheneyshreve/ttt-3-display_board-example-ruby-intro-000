@@ -7,5 +7,4 @@ def display_board
   puts cell
   puts dash
   puts cell
-  puts "A Tic Tac Toe Board"
 end
